@@ -15,7 +15,7 @@ A basic authentication system using the MERN stack that supports user signup, lo
 Installation & Setup
 
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/auth.git
+git clone https://github.com/aha05/auth.git
 cd auth
 
 2️⃣ Backend Setup
